@@ -1,5 +1,8 @@
 # fizzbuzz
 
+fizzbuzz apk url:
+https://github.com/mohamedridzwan786/Huubap-fizzbuzz-coding-challenge/blob/main/build/app/outputs/flutter-apk/app-release.apk
+
 A new Flutter project.
 
 ## Getting Started
